@@ -24,3 +24,4 @@ function getTileCoordinates(lat, lng, zoom) {
 }
 
 console.log(getTileCoordinates(48.923473, 24.714388, 7));
+// must print Object {x=72, y=43}
